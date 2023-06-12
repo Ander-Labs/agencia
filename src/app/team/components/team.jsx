@@ -55,7 +55,7 @@ export default function TeamComponents () {
             <div className="w-full sm:w-1/2 md:w-1/2 lg:w-1/2 text-center px-4 mb-8">
             <div className="border border-gray-300 cursor-pointer hover:shadow-lg shadow-blue-950/95 hover:border-blue-900 rounded-lg p-4">
                 <div className="w-12 h-12 bg-blue-500 flex items-center justify-center text-white text-xl font-bold mr-4 border border-gray-400 rounded-full">
-                JC
+                SC
                 </div>
                 <h4 className="text-lg font-bold mt-4 mb-2">Sarai Chiroque</h4>
                 <span className="block w-full border-b border-blue-500 my-4"></span>
@@ -66,7 +66,7 @@ export default function TeamComponents () {
             <div className="w-full sm:w-1/2 md:w-1/2 lg:w-1/2 text-center px-4 mb-8">
             <div className="border border-gray-300 cursor-pointer hover:shadow-lg shadow-blue-950/95 hover:border-blue-900 rounded-lg p-4">
                 <div className="w-12 h-12 bg-blue-500 flex items-center justify-center text-white text-xl font-bold mr-4 border border-gray-400 rounded-full">
-                JC
+                CC
                 </div>
                 <h4 className="text-lg font-bold mt-4 mb-2">Carmen Castro</h4>
                 <span className="block w-full border-b border-blue-500 my-4"></span>
@@ -77,7 +77,7 @@ export default function TeamComponents () {
             <div className="w-full sm:w-1/2 md:w-1/2 lg:w-1/2 text-center px-4 mb-8">
             <div className="border border-gray-300 cursor-pointer hover:shadow-lg shadow-blue-950/95 hover:border-blue-900 rounded-lg p-4">
                 <div className="w-12 h-12 bg-blue-500 flex items-center justify-center text-white text-xl font-bold mr-4 border border-gray-400 rounded-full">
-                JC
+                MS
                 </div>
                 <h4 className="text-lg font-bold mt-4 mb-2">Milusca Silva</h4>
                 <span className="block w-full border-b border-blue-500 my-4"></span>
