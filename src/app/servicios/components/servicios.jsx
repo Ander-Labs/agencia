@@ -44,7 +44,7 @@ export default function ServicioSection() {
             </h3>
             <div className='flex justify-end'>
             <button className="bg-white text-black py-2 px-4 rounded mt-4 ">
-                <Link href="/contactServicios">Adquirir Servicios</Link>
+                <a href='https://forms.gle/xHagDg4uyDFoYu69A' target="_blank">Adquirir Servicios</a>
             </button>
             </div>
             </div>
@@ -64,7 +64,7 @@ export default function ServicioSection() {
                     <p>{service.description}</p>
                     <div>
                     <button className="bg-blue-500 text-white py-2 px-4 rounded mt-4">
-                    <Link href='/contactServicios' >Adquirir</Link>
+                    <a href='https://forms.gle/xHagDg4uyDFoYu69A' target="_blank">Adquirir</a>
                     </button></div>
                 </div>
                 ))}
