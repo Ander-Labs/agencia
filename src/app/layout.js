@@ -8,7 +8,7 @@ export const metadata = {
   description: 'RYU MARK es una agencia de marketing digital especializada en estrategias de crecimiento y resultados. Impulsamos tu negocio en línea con servicios de SEO, SEM, redes sociales y más...',
   icons:{
     icon: [
-      '/favicon.png?v=1'
+      '/favicon.ico?v=1'
     ]
   }
 }
