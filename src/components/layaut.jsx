@@ -12,8 +12,6 @@ export default function Layout({ children, title, description, image }) {
         <Head>
             <title>{title}</title>
             <meta name='description' content={description} />
-            <link rel="icon" href="/favicon.ico" sizes="any" />
-            <link rel="icon" href="/favicon.png" sizes="any" />
 
             {/* Etiquetas Open Graph */}
         <meta property="og:title" content={title} />
