@@ -1,3 +1,7 @@
+'use client'
+ 
+import Script from 'next/script'
+
 import Header from './header';
 import Footer from './footer';
 import '../app/globals.css'
@@ -13,6 +17,16 @@ export default function Layout({ children, title, description, image }) {
             <title>{title}</title>
             <meta name='description' content={description} />
             <meta name="a.validate.02" content="urZaLhrr7fvU3ZHnIpis51qHiZvagxUtfFJp" />
+            <script type="text/javascript">
+	atOptions = {
+		'key' : '06d36019d58d352ab7d44d89608dff3b',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/06d36019d58d352ab7d44d89608dff3b/invoke.js"></scr' + 'ipt>');
+</script>
 
             {/* Etiquetas Open Graph */}
         <meta property="og:title" content={title} />
