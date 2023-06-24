@@ -17,16 +17,8 @@ export default function Layout({ children, title, description, image }) {
             <title>{title}</title>
             <meta name='description' content={description} />
             <meta name="a.validate.02" content="urZaLhrr7fvU3ZHnIpis51qHiZvagxUtfFJp" />
-            <script type="text/javascript">
-	atOptions = {
-		'key' : '06d36019d58d352ab7d44d89608dff3b',
-		'format' : 'iframe',
-		'height' : 300,
-		'width' : 160,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/06d36019d58d352ab7d44d89608dff3b/invoke.js"></scr' + 'ipt>');
-</script>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2964007773702778"
+     crossorigin="anonymous"></script>
 
             {/* Etiquetas Open Graph */}
         <meta property="og:title" content={title} />
