@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Agencia de Marketing Digital | RYU MARK',
+  title: 'RYU MARK | Agencia de Marketing Digital',
   description: 'RYU MARK es una agencia de marketing digital especializada en estrategias de crecimiento y resultados. Impulsamos tu negocio en línea con servicios de SEO, SEM, redes sociales y más...',
   icons:{
     icon: [
