@@ -12,6 +12,7 @@ export default function Layout({ children, title, description, image }) {
         <Head>
             <title>{title}</title>
             <meta name='description' content={description} />
+            <meta name="a.validate.02" content="urZaLhrr7fvU3ZHnIpis51qHiZvagxUtfFJp" />
 
             {/* Etiquetas Open Graph */}
         <meta property="og:title" content={title} />
