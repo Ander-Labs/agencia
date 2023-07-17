@@ -1,7 +1,7 @@
+
 import Image from 'next/image'
 import Layout from '@/components/layout'
 import Partners from '@/components/parnert'
-import Testimonials from '@/components/testimonials'
 import HeroCarousel from '@/components/inicio/hero'
 import ServiciosSet from '@/components/inicio/servicios'
 import AboutSection from '@/components/inicio/aboutSection'
